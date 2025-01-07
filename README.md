@@ -13,13 +13,15 @@ This repository is for tracking the progress and implementation of **Lab 3: Sign
    Status: [⭕] To Do | [ ] In Progress | [ ] Done  
 
 3. **Inverse Discrete Fourier Transform using Vandermonde Matrix**  
-   Status: [⭕] To Do | [ ] In Progress | [ ] Done  
+   Status: [⭕] To Do | [ ] In Progress | [ ] Done
+   Documentation:  ❎ (make check when done)
 
 4. **Fast Fourier Transform (Recursive)**  
    Status: [⭕] To Do | [ ] In Progress | [ ] Done  
 
 5. **Z-Domain to Time Domain Conversion**  
-   Status: [⭕] To Do | [ ] In Progress | [ ] Done  
+   Status: [⭕] To Do | [ ] In Progress | [ ] Done
+   Documentation: ❎ (make check when done)
 
 6. **Pattern Matching using 2D Pearson Correlator**  
    Status: [⭕] To Do | [ ] In Progress | [ ] Done  
