@@ -6,7 +6,7 @@ This repository is for tracking the progress and implementation of **Lab 3: Sign
 ---
 
 ## Tasks Overview
-1. **Template Matching using Pearson Correlator** | STIJN
+1. **Template Matching using Pearson Correlator** Stijn
    Status: [] To Do | [✍️] In Progress | [ ] Done  
 
 2. **Discrete Fourier Transform using Vandermonde Matrix**  
