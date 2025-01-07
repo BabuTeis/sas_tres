@@ -6,26 +6,26 @@ This repository is for tracking the progress and implementation of **Lab 3: Sign
 ---
 
 ## Tasks Overview
-1. **Template Matching using Pearson Correlator**
-   Status: [] To Do | [✍️] In Progress | [ ] Done
+1. **Template Matching using Pearson Correlator**<br />
+   Status: [] To Do | [✍️] In Progress | [ ] Done<br />
    Stijn
 
-3. **Discrete Fourier Transform using Vandermonde Matrix**  
-   Status: [⭕] To Do | [ ] In Progress | [ ] Done  
+3. **Discrete Fourier Transform using Vandermonde Matrix** <br />
+   Status: [⭕] To Do | [ ] In Progress | [ ] Done<br />
 
-4. **Inverse Discrete Fourier Transform using Vandermonde Matrix**  
-   Status: [⭕] To Do | [ ] In Progress | [ ] Done
+4. **Inverse Discrete Fourier Transform using Vandermonde Matrix**<br />
+   Status: [⭕] To Do | [ ] In Progress | [ ] Done<br />
    Documentation:  ❎ (make check when done)
 
-5. **Fast Fourier Transform (Recursive)**  
-   Status: [⭕] To Do | [ ] In Progress | [ ] Done  
+5. **Fast Fourier Transform (Recursive)**<br />
+   Status: [⭕] To Do | [ ] In Progress | [ ] Done<br />
 
-6. **Z-Domain to Time Domain Conversion**  
-   Status: [⭕] To Do | [ ] In Progress | [ ] Done
+6. **Z-Domain to Time Domain Conversion**<br />
+   Status: [⭕] To Do | [ ] In Progress | [ ] Done<br />
    Documentation: ❎ (make check when done)
 
-7. **Pattern Matching using 2D Pearson Correlator**  
-   Status: [⭕] To Do | [ ] In Progress | [ ] Done  
+7. **Pattern Matching using 2D Pearson Correlator**<br /> 
+   Status: [⭕] To Do | [ ] In Progress | [ ] Done<br />
 
 ---
 
