@@ -7,16 +7,17 @@ This repository is for tracking the progress and implementation of **Lab 3: Sign
 
 ## Tasks Overview
 1. **Template Matching using Pearson Correlator**<br />
-   Status: [] To Do | [] In Progress | [✅] Done<br />
+   Status: [✅] Done<br />
    Stijn
 
 3. **Discrete Fourier Transform using Vandermonde Matrix** <br />
-   Status: [] To Do | [✍🏻] In Progress | [ ] Done<br />
+   Status: [✅] Done<br />
    Stijn
 
 4. **Inverse Discrete Fourier Transform using Vandermonde Matrix**<br />
-   Status: [⭕] To Do | [ ] In Progress | [ ] Done<br />
-   Documentation:  ❎ (make check when done)
+   Status: [✍️] In Progress | [ ] Done<br />
+   Documentation:  ❎ (make check when done)<br />
+   Stijn
 
 5. **Fast Fourier Transform (Recursive)**<br />
    Status: [⭕] To Do | [ ] In Progress | [ ] Done<br />
