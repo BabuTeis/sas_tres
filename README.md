@@ -15,8 +15,8 @@ This repository is for tracking the progress and implementation of **Lab 3: Sign
    Stijn
 
 4. **Inverse Discrete Fourier Transform using Vandermonde Matrix**<br />
-   Status: [✍️] In Progress | [ ] Done<br />
-   Documentation:  ❎ (make check when done)<br />
+   Status: [✅] Done<br />
+   Documentation:  ✅<br />
    Stijn
 
 5. **Fast Fourier Transform (Recursive)**<br />
