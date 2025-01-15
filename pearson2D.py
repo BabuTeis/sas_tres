@@ -123,13 +123,20 @@ def fft2D(direction, re, im):
     '''YOU CAN USE THE fft1D() FUNCTION ABOVE'''
 
     # 1) Get the shape of the real part of the image
-
+    height, width = re.shape
     # 2) Perform 1D FFT on each row of the real and imaginary parts of the image
-    
+    for row in range(height):
+        fft1D(direction, re[row], im[row])
     # 3) Initialize arrays to hold the real and imaginary parts of the column transform
-    
+    re = re.T
+    im = im.T
     # 4) Perform 1D FFT on each column of the real and imaginary parts of the image
-    
+    for col in range(width):
+        fft1D(direction, re[col], im[col])
+    re = re.T
+    im = im.T
+
+    return re, im
 
 ##############################################
 ##############################################
